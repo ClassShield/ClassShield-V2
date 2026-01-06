@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://github.com/ClassShield/ClassShield-School-Content-Safety-System-NSFW-Detector/blob/main/images/logo.png" width="25%">
+</p>
+
 # ClassShield - School Content Safety System
 
 **A comprehensive AI-powered content safety prototype designed for educational environments with ethical AI principles at its core.**
